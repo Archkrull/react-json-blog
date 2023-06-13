@@ -1,9 +1,10 @@
 import React from 'react'
+import Badge from '../components/Badge'
 
 const Blog = () => {
   return (
     <div>
-        <h2>Single Blog</h2>
+        <Badge>Single Blog</Badge>
     </div>
   )
 }
